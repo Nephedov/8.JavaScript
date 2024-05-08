@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 8 «Декораторы»
+# «Декораторы»
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/8.decorators/task.js">task.js</a> - код с реализованными функциями.
